@@ -1,7 +1,7 @@
 Built a clone of Tesla's Website using React.js
 
 
-Skills Used
+## Skills Used
 
-👉 Redux
-👉 Styled Components
+<br />👉 Redux
+<br />👉 Styled Components
